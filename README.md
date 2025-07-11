@@ -1,0 +1,1 @@
+# Wind-Speed-Analysis-for-Renewable-Energy-at-Indian-Airports-Using-Statistical-techniques
