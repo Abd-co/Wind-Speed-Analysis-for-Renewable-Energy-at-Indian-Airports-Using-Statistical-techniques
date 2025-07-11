@@ -15,7 +15,7 @@ The study applies statistical modeling using Weibull and Lower-Upper Truncated W
 
 4.Assess the feasibility of Savonius Vertical Axis Wind Turbines (VAWT) for deployment.
 
-# Data Collection & Preprocessing Source 
+# Data Collection
 Data is collected through METAR (Meteorological Aerodrome Reports) from Iowa State University's Website.
 
 Time Frame: 2017–2023 (7 years of daily wind speed data with records present for every 30 seconds timeframe).
